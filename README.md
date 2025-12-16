@@ -1,5 +1,5 @@
 # Research
-Research papers, technical reports, source code and data
+Research papers, technical reports, source code and data of Quantum AIDD
 
 # Table of Contents
 ## 1. A hybrid quantum computing pipeline for real world drug discovery, Scientific Reports 14, 16942 (2024)
